@@ -1,4 +1,4 @@
-package com.logonovo.learning.zookeeper.loadbalance;
+package com.logonovo.learning.zookeeper.useCases.loadbalance;
 
 import com.github.zkclient.ZkClient;
 import com.logonov.learning.utils.PropertiesUtil;

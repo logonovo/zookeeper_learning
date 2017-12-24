@@ -1,10 +1,7 @@
-package com.logonovo.learning.zookeeper.loadbalance;
+package com.logonovo.learning.zookeeper.useCases.loadbalance;
 
 import com.github.zkclient.ZkClient;
 import com.logonov.learning.utils.PropertiesUtil;
-import org.apache.zookeeper.WatchedEvent;
-import org.apache.zookeeper.Watcher;
-import org.apache.zookeeper.ZooKeeper;
 
 import java.io.IOException;
 import java.net.InetAddress;
